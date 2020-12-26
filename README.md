@@ -1,3 +1,3 @@
 # Test
 Test the library
-:dancer:.
+:dancer::coffee:.
